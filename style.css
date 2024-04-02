@@ -1,0 +1,17 @@
+th,tr{
+    color: darkmagenta;
+}
+.hello
+{
+    color: red;
+    border: 2px solid black;
+    width: 34;
+    background-color: lawngreen;
+    margin-left: 49px;
+    padding-left: 100px;
+    /*float:right: */
+}
+#third
+{
+    color: darkgreen;
+}
